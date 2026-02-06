@@ -1,0 +1,1 @@
+As a student, I want AI to adjust my alarm time based on my sleep patterns, so that I can wake up feeling more refreshed and less tired.
